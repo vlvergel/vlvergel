@@ -1,4 +1,4 @@
-# Hello World! 🌍 I'm @vlvergel
+# Hi! I'm @vlvergel
 Excited to transform caffeine into functional lines of code ☕💻.
 
 ## About me
