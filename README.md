@@ -6,11 +6,11 @@ Excited to transform caffeine into functional lines of code ☕💻.
 - 🛠️ I love playing with any language available and I have a love-hate relationship with bugs 🐞.
 - 🎨 Sometimes I feel like an artist when I write CSS (although the browser doesn't always agree).
 - 🕹️ Gamer in my free time (and sometimes in the not so free time!).
-- ⚡ Fun fact: I sometimes spend hours searching for ridiculously simple errors in my programs, only to realize that sleep has overcome me 😅.
+- ⚡ Fun fact: I often spend hours searching for simple errors in my code, only to realize I'm just tired 😅.
 
 ## Mis Stats de GitHub 📊
 
-![Tus Stats de GitHub](https://github-readme-stats.vercel.app/api?username=VlVergel-U&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=VlVergel-U&layout=compact&theme=radical)
 <!--
 **VlVergel-U/VlVergel-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
