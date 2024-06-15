@@ -1,6 +1,7 @@
 # Hi! I'm @vlvergel
 Excited to transform caffeine into functional lines of code ☕💻.
-![Cafecito](https://media.giphy.com/media/SrM826tgscTMzJpNFg/giphy.gif?cid=790b76117iufyl1l62r0m5ghwabp4ai27bvzvbe5h1964gsl&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/ftTF0Wo37nUqTwI0Ak/giphy.gif?cid=ecf05e47rgnvutcf6os2lcx9x5now7nqvw24gcw1l4p8pphf&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+![Cafecito](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpscTd1ZnpxaHdnMDFmeHN3dHkyc2Q2cGR1cmxlcWg5M3BrMXU1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iUaDOqormK0U5yEdRT/giphy.gif)
+
 
 ## About me
 - 🎓 I am a Systems Engineering student, learning to build the future one line of code at a time.
