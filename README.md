@@ -1,7 +1,7 @@
 # Hi! I'm @vlvergel
 Excited to transform caffeine into functional lines of code ☕💻.
 <div align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpscTd1ZnpxaHdnMDFmeHN3dHkyc2Q2cGR1cmxlcWg5M3BrMXU1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iUaDOqormK0U5yEdRT/giphy.gif" width="300" height="auto">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpscTd1ZnpxaHdnMDFmeHN3dHkyc2Q2cGR1cmxlcWg5M3BrMXU1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iUaDOqormK0U5yEdRT/giphy.gif" width="250">
 </div>
 
 
