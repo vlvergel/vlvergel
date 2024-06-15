@@ -15,5 +15,3 @@
 ## My GitHub Stats 📊
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VlVergel-U&layout=compact&theme=radical">
 
-Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VlVergel-U&layout=compact&theme=radical)
-
