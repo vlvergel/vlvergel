@@ -6,10 +6,10 @@
 
 ## About me
 <ul>
-  <li>🎓 I am a Systems Engineering student, learning to build the future one line of code at a time.</li>
-  <li>🛠️ I love playing with any language available and I have a love-hate relationship with bugs 🐞.</li>
-  <li>🎨 Sometimes I feel like an artist when I write CSS (although the browser doesn't always agree).</li>
-  <li>🕹️ Gamer in my free time (and sometimes in the not so free time!).</li>
+  <li>I am a Systems Engineering student, learning to build the future one line of code at a time.</li>
+  <li>I love playing with any language available and I have a love-hate relationship with bugs 🐞.</li>
+  <li>Sometimes I feel like an artist when I write CSS (although the browser doesn't always agree).</li>
+  <li>Gamer in my free time (and sometimes in the not so free time!).</li>
 </ul>
 
 ## My GitHub Stats 📊
