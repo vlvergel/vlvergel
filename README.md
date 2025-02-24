@@ -2,7 +2,7 @@
 <p align="center" style="font-size:18px;">Transforming caffeine into functional lines of code</p>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWM2bmNid3NnZXZydTJxZzMxNW4wZWZreHBzMWY5NGdhOThkYWxlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vuCTGetnTyXE7Zv5hr/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpscTd1ZnpxaHdnMDFmeHN3dHkyc2Q2cGR1cmxlcWg5M3BrMXU1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iUaDOqormK0U5yEdRT/giphy.gif" width="250">
 </div>
 
 ---
