@@ -24,13 +24,6 @@
 
 ---
 
-## Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VlVergel-U&theme=react-dark&hide_border=true">
-</div>
-
----
-
 ## Technologies
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
