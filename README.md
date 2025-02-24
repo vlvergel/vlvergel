@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm @vlvergel</h1>
-<p align="center">Excited to transform caffeine into functional lines of code ☕💻.</p>
+<p align="center">Excited to transform caffeine into functional lines of code</p>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpscTd1ZnpxaHdnMDFmeHN3dHkyc2Q2cGR1cmxlcWg5M3BrMXU1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iUaDOqormK0U5yEdRT/giphy.gif" width="250">
 </div>
