@@ -1,4 +1,15 @@
 <h1 align="center">Hi! I'm @vlvergel</h1>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/valentina-vergel-b05303340/">
+    <img width="24px" src="https://cdn.simpleicons.org/linkedin" />
+  </a>
+  
+  <a href="mailto:vvergelv@ufpso.edu.co" style="margin-left:10px;">
+    <img width="26px" src="https://cdn.simpleicons.org/gmail" />
+  </a>
+</div>
+
 <h3 align="center"><b>Full-Stack Developer</b></h3>
 <p align="center" style="font-size:18px;">Transforming caffeine into functional lines of code</p>
 
@@ -56,11 +67,5 @@
 ## My GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VlVergel-U&layout=compact&theme=tokyonight" height="150">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=VlVergel-U&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=VlVergel-U&show_icons=true&theme=tokyonight" height="150">
 </div>
-
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-vergel-b05303340/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vvergelv@ufpso.edu.co)
-#
