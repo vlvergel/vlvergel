@@ -18,7 +18,7 @@
 </div>
 
 ## About Me
-- **Systems Engineering student**, learning to build the future one line of code at a time.
+- **Systems Engineering Student**
 - I love playing with any language available and have a **love-hate relationship with bugs**.
 - Sometimes I feel like an **artist** when I write CSS (although the browser doesn't always agree).
 - **Gamer** in my free time (and sometimes in the *not so free* time!).
