@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm @vlvergel</h1>
+<h1 align="center">Hi! I'm Vale</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/valentina-vergel-b05303340/">
