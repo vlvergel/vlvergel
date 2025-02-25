@@ -3,27 +3,14 @@
 <p align="center" style="font-size:18px;">Transforming caffeine into functional lines of code</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpscTd1ZnpxaHdnMDFmeHN3dHkyc2Q2cGR1cmxlcWg5M3BrMXU1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iUaDOqormK0U5yEdRT/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpscTd1ZnpxaHdnMDFmeHN3dHkyc2Q2cGR1cmxlcWg5M3BrMXU1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iUaDOqormK0U5yEdRT/giphy.gif" width="150">
 </div>
-
----
 
 ## About Me
 - **Systems Engineering student**, learning to build the future one line of code at a time.
 - I love playing with any language available and have a **love-hate relationship with bugs**.
 - Sometimes I feel like an **artist** when I write CSS (although the browser doesn't always agree).
 - **Gamer** in my free time (and sometimes in the *not so free* time!).
-
----
-
-## My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VlVergel-U&layout=compact&theme=tokyonight" height="150">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=VlVergel-U&show_icons=true&theme=tokyonight" height="170">
-</div>
-
----
 
 ## Technologies
 ### 🌐 Frontend
@@ -65,6 +52,13 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br/>
 #
+
+## My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VlVergel-U&layout=compact&theme=tokyonight" height="150">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=VlVergel-U&show_icons=true&theme=tokyonight" height="170">
+</div>
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-vergel-b05303340/)
