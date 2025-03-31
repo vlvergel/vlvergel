@@ -66,6 +66,6 @@
 
 ## My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VlVergel-U&layout=compact&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api?username=VlVergel-U&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlvergel&layout=compact&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=vlvergel&show_icons=true&theme=tokyonight" height="150">
 </div>
