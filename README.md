@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/valentina-vergel-b05303340/">
-    <img width="24px" src="https://cdn.simpleicons.org/linkedin" />
+    <img width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
   </a>
   
   <a href="mailto:vvergelv@ufpso.edu.co" style="margin-left:10px;">
