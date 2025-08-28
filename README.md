@@ -16,12 +16,25 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpscTd1ZnpxaHdnMDFmeHN3dHkyc2Q2cGR1cmxlcWg5M3BrMXU1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iUaDOqormK0U5yEdRT/giphy.gif" width="150">
 </div>
+<br/>
 
-## About Me
-- **Systems Engineering Student**
-- I love playing with any language available and have a **love-hate relationship with bugs**
-- Sometimes I feel like an **artist** when I write CSS (although the browser doesn't always agree)
-- **Gamer** in my free time (and sometimes in the *not so free* time)
+<table width="100%" align="center">
+  <tr>
+    <td width="100%" valign="top">
+      <p align="center">
+        <img src="https://img.shields.io/badge/ABOUT%20ME-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+      </p>
+      <ul>
+        <li><b>Systems Engineering Student</b></li>
+        <li>Full‑Stack dev, ahora profundizando en <b>DevOps</b></li>
+        <li>Me gusta crear <b>UX/UI</b> intuitivo</li>
+        <li>Código <b>limpio</b> y mantenible</li>
+        <li><b>Gamer</b> en el tiempo libre</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ## Technologies
 
@@ -52,7 +65,6 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-<br/>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
