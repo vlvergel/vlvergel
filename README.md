@@ -26,10 +26,10 @@
       </p>
       <ul>
         <li><b>Systems Engineering Student</b></li>
-        <li>Full‑Stack dev, ahora profundizando en <b>DevOps</b></li>
-        <li>Me gusta crear <b>UX/UI</b> intuitivo</li>
-        <li>Código <b>limpio</b> y mantenible</li>
-        <li><b>Gamer</b> en el tiempo libre</li>
+        <li>Full‑Stack dev, exploring <b>DevOps</b></li>
+        <li>Passionate about intuitive <b>UX/UI</b> design</li>
+        <li>Focused on <b>clean</b> and maintainable code</li>
+        <li><b>Gamer</b> in my spare time</li>
       </ul>
     </td>
   </tr>
