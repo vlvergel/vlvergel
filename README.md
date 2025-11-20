@@ -4,18 +4,16 @@
   Hi! I'm Valentina
 </h1>
 
-<div align="center" style="margin-bottom:12px;">
-  <a href="https://www.linkedin.com/in/valentina-vergel-b05303340/">
-    <img width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
+<div align="center">
+  <a href="https://linktr.ee/vlvergel">
+    <img src="https://img.shields.io/badge/Conectar-Linktree-FF00FF?style=for-the-badge&logo=linktree&logoColor=white&labelColor=808080&color=FF00FF" alt="Conectar" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:vvergeldev@gmail.com">
-    <img width="26px" src="https://cdn.simpleicons.org/gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://open.spotify.com/intl-es/track/6QFCMUUq1T2Vf5sFUXcuQ7?si=b193a6953a284796">
-    <img height="28px" src="https://img.shields.io/badge/Now%20Playing-Beauty%20And%20A%20Beat-303030?style=flat-square&logo=spotify&logoColor=1db954" />
-  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://spotifylivebanner.vercel.app/?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="All Styles Mix" width="250" />
 </div>
 
 <h3 align="center"><b>Full-Stack Developer</b></h3>
