@@ -1,17 +1,27 @@
-<h1 align="center">Hi! I'm Valentina</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cba7ff,100:fbd9ff&height=100&section=header&text=&fontSize=0&fontColor=ffffff&desc=&stroke=00000000" alt="Gradient header" />
+
+<h1 align="center">
+  Hi! I'm Valentina
+</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/valentina-vergel-b05303340/">
     <img width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
   </a>
-  
-  <a href="mailto:vvergeldev@gmail.com" style="margin-left:10px;">
+  &nbsp;&nbsp;
+  <a href="mailto:vvergeldev@gmail.com">
     <img width="26px" src="https://cdn.simpleicons.org/gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://open.spotify.com/intl-es/track/6QFCMUUq1T2Vf5sFUXcuQ7?si=b193a6953a284796">
+    <img height="28px" src="https://img.shields.io/badge/Now%20Playing-Beauty%20And%20A%20Beat-C47CFF?style=flat-square&logo=spotify&logoColor=ffffff" />
   </a>
 </div>
 
 <h3 align="center"><b>Full-Stack Developer</b></h3>
 <p align="center" style="font-size:18px;">Transforming caffeine into functional lines of code</p>
+
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpscTd1ZnpxaHdnMDFmeHN3dHkyc2Q2cGR1cmxlcWg5M3BrMXU1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iUaDOqormK0U5yEdRT/giphy.gif" width="150">
@@ -94,3 +104,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlvergel&layout=compact&theme=tokyonight" height="150">
   <img src="https://github-readme-stats.vercel.app/api?username=vlvergel&show_icons=true&theme=tokyonight" height="150">
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fbd9ff,100:cba7ff&height=100&section=footer&text=&fontSize=0&fontColor=ffffff&desc=&stroke=00000000" alt="Gradient footer" />
