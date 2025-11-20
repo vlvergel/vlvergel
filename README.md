@@ -30,10 +30,10 @@
         <img src="https://img.shields.io/badge/ABOUT%20ME-121212?style=for-the-badge&logo=github&logoColor=white" />
       </p>
       <ul style="list-style: none; padding-left: 0;">
-      <li><i>Developer</i></li>
-      <li><i>Web design buff</i></li>
-      <li><i>Always eager to learn something new</i></li>
-      <li><i>Gamer</i></li>
+      <li><i>Developer </i>❤️</li>
+      <li><i>Web design buff </i>🛸</li>
+      <li><i>Always eager to learn something new </i>🦄</li>
+      <li><i>Gamer </i>🎮</li>
     </ul>
     </td>
     <td width="50%" valign="top" style="background:#121212;border:1px solid #2c2c2c;border-radius:18px;padding:22px;color:#fefefe;">
