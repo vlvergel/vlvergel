@@ -18,11 +18,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://spotifylivebanner.vercel.app/?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="All Styles Mix" width="250" />
+  <img src="https://spotifylivebanner.vercel.app/?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="All Styles Mix" width="280" />
 </div>
-
-
-
 
 <br/>
 
@@ -69,6 +66,8 @@
     </td>
   </tr>
 </table>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlvergel&layout=compact&theme=tokyonight" height="150">
