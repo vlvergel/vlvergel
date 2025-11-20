@@ -1,8 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4a4a4a&height=100&section=header&text=&fontSize=0&fontColor=ffffff&desc=&stroke=00000000" alt="Gradient header" />
 
-<h1 align="center">
-  Hi! I'm Valentina
-</h1>
+<div align="center">
+    <img src="https://github.com/vlvergel/vlvergel/blob/3b291426904eb0efc810145fc1b9b755ce4b5a47/title.png" alt="Title" width="380"/>
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://linktr.ee/vlvergel">
