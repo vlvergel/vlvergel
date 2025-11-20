@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://github.com/vlvergel/vlvergel/blob/41fea6f94cbd04c29ea92ebbfca57078aa0ffb61/title.png" alt="Title" width="380"/>
+    <img src="https://github.com/vlvergel/vlvergel/blob/41fea6f94cbd04c29ea92ebbfca57078aa0ffb61/title.png" alt="Title" width="350"/>
 </div>
 
 <h3 align="center"><b>Full-Stack Developer</b></h3>
