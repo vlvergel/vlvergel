@@ -13,7 +13,7 @@
 </div>
 
 <h3 align="center"><b>Full-Stack Developer</b></h3>
-<p align="center" style="font-size:18px;">Transforming caffeine into functional lines of code</p>
+<p align="center" style="font-size:18px;">Coffee in hand, code on demand</p>
 
 <br/>
 
