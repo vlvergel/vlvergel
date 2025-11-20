@@ -1,16 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:4a4a4a&height=100&section=header&text=&fontSize=0&fontColor=ffffff&desc=&stroke=00000000" alt="Gradient header" />
 
 <div align="center">
-    <img src="https://github.com/vlvergel/vlvergel/blob/3b291426904eb0efc810145fc1b9b755ce4b5a47/title.png" alt="Title" width="380"/>
+  <a href="https://linktr.ee/vlvergel">
+    <img src="https://img.shields.io/badge/Conectar-Linktree-FF00FF?style=for-the-badge&logo=linktree&logoColor=white&labelColor=808080&color=FF00FF" alt="Conectar" width="160" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://linktr.ee/vlvergel">
-    <img src="https://img.shields.io/badge/Conectar-Linktree-FF00FF?style=for-the-badge&logo=linktree&logoColor=white&labelColor=808080&color=FF00FF" alt="Conectar" />
-  </a>
+    <img src="https://github.com/vlvergel/vlvergel/blob/3b291426904eb0efc810145fc1b9b755ce4b5a47/title.png" alt="Title" width="380"/>
 </div>
+
+<h3 align="center"><b>Full-Stack Developer</b></h3>
+<p align="center" style="font-size:18px;">Transforming caffeine into functional lines of code</p>
 
 <br/>
 
@@ -18,12 +21,8 @@
   <img src="https://spotifylivebanner.vercel.app/?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="All Styles Mix" width="250" />
 </div>
 
-<h3 align="center"><b>Full-Stack Developer</b></h3>
-<p align="center" style="font-size:18px;">Transforming caffeine into functional lines of code</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpscTd1ZnpxaHdnMDFmeHN3dHkyc2Q2cGR1cmxlcWg5M3BrMXU1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iUaDOqormK0U5yEdRT/giphy.gif" width="150">
-</div>
+
 
 <br/>
 
