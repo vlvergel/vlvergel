@@ -69,9 +69,4 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlvergel&layout=compact&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api?username=vlvergel&show_icons=true&theme=tokyonight" height="150">
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4a4a,100:0f0f0f&height=100&section=footer&text=&fontSize=0&fontColor=ffffff&desc=&stroke=00000000" alt="Gradient footer" />
