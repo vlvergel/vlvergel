@@ -12,7 +12,7 @@
     <img src="https://github.com/vlvergel/vlvergel/blob/41fea6f94cbd04c29ea92ebbfca57078aa0ffb61/title.png" alt="Title" width="345"/>
 </div>
 
-<h3 align="center"><b>Full-Stack Developer</b></h3>
+<h3 align="center"><b>Software Developer</b></h3>
 <p align="center" style="font-size:18px;">Coffee in hand, code on demand</p>
 
 <br/>
