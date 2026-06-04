@@ -41,9 +41,9 @@
         <img src="https://img.shields.io/badge/TECHNOLOGIES-121212?style=for-the-badge&logo=code&logoColor=white" />
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,next,angular,vue,flutter,ts&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=react,next,angular,nestjs,flutter&theme=dark" />
         <br/>
-        <img src="https://skillicons.dev/icons?i=nestjs,prisma,postgres,mongodb,nodejs,mysql&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=prisma,postgres,mongodb,nodejs,mysql&theme=dark" />
       </p>
     </td>
   </tr>
