@@ -15,13 +15,6 @@
 <h3 align="center"><b>Software Developer</b></h3>
 <p align="center" style="font-size:18px;">Coffee in hand, code on demand</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://spotifylivebanner.vercel.app/?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="All Styles Mix" width="285" />
-</div>
-
-<br/>
 
 <table width="100%" align="center" style="border-collapse:separate;border-spacing:18px;">
   <tr>
